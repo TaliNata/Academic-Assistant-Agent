@@ -134,6 +134,11 @@ academic-bot/
 Доработать (существенно) — необходимо добавить аннотацию,
 ключевые слова, обзор литературы и список источников.
 ```
+<img width="1227" height="985" alt="скрин_1" src="https://github.com/user-attachments/assets/788e6be6-625c-40a8-94dc-3527d115cb25" />
+
+<img width="1233" height="983" alt="скрин_2" src="https://github.com/user-attachments/assets/22d73e37-d4be-447d-80b6-4eb638f8d83d" />
+
+<img width="1231" height="914" alt="скрин_3" src="https://github.com/user-attachments/assets/496cb1d5-704d-436e-b906-82f55ed2cc05" />
 
 ## Как запустить
 
